@@ -1,0 +1,15 @@
+{
+    "name": "amtech/market",
+    "autoload": {
+        "psr-4": {
+            "Amtech\\Market\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hakeem",
+            "email": "hakimushamavu@gmail.com"
+        }
+    ],
+    "require": {}
+}
