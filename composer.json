@@ -2,7 +2,8 @@
     "name": "amtech/market",
     "autoload": {
         "psr-4": {
-            "Amtech\\Market\\": "src/"
+            "Amtech\\Market\\": "system/",
+            "Amtech\\Config\\": "configuration/"
         }
     },
     "authors": [
